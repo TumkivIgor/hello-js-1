@@ -1,0 +1,23 @@
+{
+  "name": "hello-js-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/static-server ./public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TumkivIgor/hello-js-1.git"
+  },
+  "author": "Igor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TumkivIgor/hello-js-1/issues"
+  },
+  "homepage": "https://github.com/TumkivIgor/hello-js-1#readme",
+  "dependencies": {
+    "static-server": "^2.2.1"
+  }
+}
